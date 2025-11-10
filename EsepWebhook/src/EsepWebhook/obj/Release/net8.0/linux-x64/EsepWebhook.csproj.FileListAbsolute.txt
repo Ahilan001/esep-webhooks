@@ -15,3 +15,5 @@ C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering P
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json

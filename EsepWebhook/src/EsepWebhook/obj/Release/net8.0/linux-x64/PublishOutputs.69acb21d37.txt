@@ -3,4 +3,5 @@ C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering P
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Newtonsoft.Json.dll
 C:\Users\thegr\OneDrive\Desktop\Ahilan\CIS4930\Enterprise Software Engineering Practices\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
